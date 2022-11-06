@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Il s'agit de LA PLATEFORME de vente de fun en ligne full client side.
+Il s'agit de **LA PLATEFORME** de vente de fun en ligne full client side.
 
 - 100% open source
 - developpé par 2 étudiants de CPE
@@ -21,7 +21,7 @@ Les languages utilisé sont les suivants:
 
 | Fonctionnalité | Check |
 | ------ | ------ |
-| Personnalisation avec canvas | **oui** |
+| Personnalisation avec canvas | **oui** `#0969DA` |
 | Calcul des frais de livraison | **oui** |
 | Base de donnée json | **oui** |
 | Page de contact fonctionnelle | **oui** |
