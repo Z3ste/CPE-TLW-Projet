@@ -13,17 +13,17 @@ Il s'agit de LA PLATEFORME de vente de fun en ligne full client side.
 
 ## Languages
 Les languages utilisé sont les suivants:
-- Html
-- CSS
-- Javascript
+- **Html**
+- **CSS**
+- **Javascript**
 - ✨ et c'est tout !
 ## Fonctionnalités
 
 | Fonctionnalité | Check |
 | ------ | ------ |
-| Personnalisation avec canvas | oui |
-| Calcul des frais de livraison | oui |
-| Base de donnée json | oui |
-| Page de contact fonctionnelle | oui |
-| Bouton retour en haut | oui |
-| Interface sympa | oui |
+| Personnalisation avec canvas | **oui** |
+| Calcul des frais de livraison | **oui** |
+| Base de donnée json | **oui** |
+| Page de contact fonctionnelle | **oui** |
+| Bouton retour en haut | **oui** |
+| Interface sympa | **oui** |
