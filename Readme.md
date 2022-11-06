@@ -16,7 +16,7 @@ Les languages utilisé sont les suivants:
 - **Html**
 - **CSS**
 - **Javascript**
-- ✨ et c'est tout !
+- **✨ et c'est tout !**
 ## Fonctionnalités
 
 | Fonctionnalité | Check |
@@ -27,3 +27,4 @@ Les languages utilisé sont les suivants:
 | Page de contact fonctionnelle | [x] **oui** |
 | Bouton retour en haut | [x] **oui** |
 | Interface sympa | [x] **oui** |
+
