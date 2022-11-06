@@ -21,9 +21,9 @@ Les languages utilisé sont les suivants:
 
 | Fonctionnalité | Check |
 | ------ | ------ |
-| Personnalisation avec canvas | **oui** `#0969DA` |
-| Calcul des frais de livraison | **oui** |
-| Base de donnée json | **oui** |
-| Page de contact fonctionnelle | **oui** |
-| Bouton retour en haut | **oui** |
-| Interface sympa | **oui** |
+| Personnalisation avec canvas | [x]  |
+| Calcul des frais de livraison | [x] |
+| Base de donnée json | [x] |
+| Page de contact fonctionnelle | [x] |
+| Bouton retour en haut | [x] |
+| Interface sympa | [x] |
