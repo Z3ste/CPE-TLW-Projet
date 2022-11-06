@@ -21,9 +21,9 @@ Les languages utilisé sont les suivants:
 
 | Fonctionnalité | Check |
 | ------ | ------ |
-| Personnalisation avec canvas | [x]  |
-| Calcul des frais de livraison | [x] |
-| Base de donnée json | [x] |
-| Page de contact fonctionnelle | [x] |
-| Bouton retour en haut | [x] |
-| Interface sympa | [x] |
+| Personnalisation avec canvas | [x] **oui** |
+| Calcul des frais de livraison | [x] **oui** |
+| Base de donnée json | [x] **oui** |
+| Page de contact fonctionnelle | [x] **oui** |
+| Bouton retour en haut | [x] **oui** |
+| Interface sympa | [x] **oui** |
