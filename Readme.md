@@ -15,7 +15,7 @@ Il s'agit de **LA PLATEFORME** de vente de fun en ligne full client side.
 ![This is an image](https://github.com/Z3ste/CPE-TLW-Projet/raw/main/screen_1.png)
 
 ## Languages
-Les languages utilisé sont les suivants:
+Les languages utilisés sont les suivants:
 - **Html**
 - **CSS**
 - **Javascript**
